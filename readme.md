@@ -39,5 +39,4 @@ GOOGLEADK/
 │
 ├── .env
 ├── .gitignore
-├── requirements.txt
-└── .venv/
+└── requirements.txt
